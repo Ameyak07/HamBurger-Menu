@@ -1,0 +1,1 @@
+A hamburger menu is a button that displays a navigation menu when clicked. It's often located in the top left or right corner of a screen. The button is made up of three horizontal lines that resemble a hamburger, which is why it's called a hamburger menu. 
